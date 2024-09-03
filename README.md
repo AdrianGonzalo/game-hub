@@ -54,7 +54,7 @@ User
 ## Technologies Used
 
 - Frontend: React, Vite
-- Backend: Nodejs
+- Backend: Nodejs, Express
 - Testing: Mocha Chai
 
 ## Code Coverage
